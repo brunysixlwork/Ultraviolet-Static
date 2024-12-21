@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/uv/',
-    bare:'https://bare-sigma.yourmom.us.kg/',
+    bare:'https://amgis-erab.yourmom.eu.org/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
